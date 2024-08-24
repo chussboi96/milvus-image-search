@@ -17,5 +17,7 @@ This repository contains the implementation of an image search system using Milv
 - PIL
 - pymilvus
 
-## Installation
-Clone the repository and install the required packages:
+## Results
+![image](https://github.com/user-attachments/assets/6d26fad2-df59-4bd8-bf37-b8407a0910a3)
+![image](https://github.com/user-attachments/assets/ad68cdd9-4f61-4cfd-b54c-45d6415998cf)
+
